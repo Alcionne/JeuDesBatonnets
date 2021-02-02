@@ -1,0 +1,14 @@
+D:\Documents\Documents\_Travail_\_Formations_\Formation_Csharp\98_Mes_Jeux\03_Jeu_des_batonnets\Batonnets\bin\Release\JeuDesBatonnets.exe.config
+D:\Documents\Documents\_Travail_\_Formations_\Formation_Csharp\98_Mes_Jeux\03_Jeu_des_batonnets\Batonnets\bin\Release\JeuDesBatonnets.exe.manifest
+D:\Documents\Documents\_Travail_\_Formations_\Formation_Csharp\98_Mes_Jeux\03_Jeu_des_batonnets\Batonnets\bin\Release\JeuDesBatonnets.application
+D:\Documents\Documents\_Travail_\_Formations_\Formation_Csharp\98_Mes_Jeux\03_Jeu_des_batonnets\Batonnets\bin\Release\JeuDesBatonnets.exe
+D:\Documents\Documents\_Travail_\_Formations_\Formation_Csharp\98_Mes_Jeux\03_Jeu_des_batonnets\Batonnets\bin\Release\JeuDesBatonnets.pdb
+D:\Documents\Documents\_Travail_\_Formations_\Formation_Csharp\98_Mes_Jeux\03_Jeu_des_batonnets\Batonnets\obj\Release\Batonnets.Main.resources
+D:\Documents\Documents\_Travail_\_Formations_\Formation_Csharp\98_Mes_Jeux\03_Jeu_des_batonnets\Batonnets\obj\Release\Batonnets.New_Game.resources
+D:\Documents\Documents\_Travail_\_Formations_\Formation_Csharp\98_Mes_Jeux\03_Jeu_des_batonnets\Batonnets\obj\Release\Batonnets.Properties.Resources.resources
+D:\Documents\Documents\_Travail_\_Formations_\Formation_Csharp\98_Mes_Jeux\03_Jeu_des_batonnets\Batonnets\obj\Release\Batonnets.csproj.GenerateResource.cache
+D:\Documents\Documents\_Travail_\_Formations_\Formation_Csharp\98_Mes_Jeux\03_Jeu_des_batonnets\Batonnets\obj\Release\Batonnets.csproj.CoreCompileInputs.cache
+D:\Documents\Documents\_Travail_\_Formations_\Formation_Csharp\98_Mes_Jeux\03_Jeu_des_batonnets\Batonnets\obj\Release\JeuDesBatonnets.exe.manifest
+D:\Documents\Documents\_Travail_\_Formations_\Formation_Csharp\98_Mes_Jeux\03_Jeu_des_batonnets\Batonnets\obj\Release\JeuDesBatonnets.application
+D:\Documents\Documents\_Travail_\_Formations_\Formation_Csharp\98_Mes_Jeux\03_Jeu_des_batonnets\Batonnets\obj\Release\JeuDesBatonnets.exe
+D:\Documents\Documents\_Travail_\_Formations_\Formation_Csharp\98_Mes_Jeux\03_Jeu_des_batonnets\Batonnets\obj\Release\JeuDesBatonnets.pdb
